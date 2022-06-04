@@ -1,7 +1,7 @@
 <?php
 
 //This is a simple shortcode template for Wordpress.
-//To use this shortcode, use [ra_display_shortcode_result].  
+//To show the shortcode result, use [ra_display_shortcode_result] in a page or compatible field.
 
 function ra_display_shortcode_template() {
     $message = 'Hello world!'; 
